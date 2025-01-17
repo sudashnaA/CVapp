@@ -1,0 +1,50 @@
+#root {
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+div{
+  margin-top: 1rem;
+}
+
+#main-button{
+  margin-top: 2rem;
+  width: 10rem;
+  height: 3rem;
+}
+
+#errortext{
+  color: red;
+}
+
+.hidden{
+  display: none;
+}
+
+.experience-container, .education-container, .general-container{
+  margin-top: 2rem;
+  padding: 1rem;
+  border-radius: 1rem;
+}
+
+.education-container{
+  border: 2px solid rgb(136, 0, 255);
+}
+
+.general-container{
+  border: 2px solid greenyellow;
+}
+
+.experience-container{
+  border: 2px solid yellow;
+}
+
+.cv-container{
+  margin-top: 3rem;
+  padding-left: 20rem;
+  padding-right: 20rem;
+  padding-bottom: 4rem;
+  border-radius: 1rem;
+  border: 10px solid rgb(34, 104, 255);
+}
